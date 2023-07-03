@@ -1,7 +1,7 @@
 # 0x00. AirBnB clone - The console
 
 ## 0x00.Table of contents
-- 0x01 Introduction
+- [0x01 Introduction](https://github.com/richard-1257/AirBnB_clone/tree/master#0x01-introduction)
 - 0x02 Environment
 - 0x03 Installation
 - 0x04 Testing
