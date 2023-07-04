@@ -4,7 +4,7 @@
 - [0x01 Introduction](https://github.com/richard-1257/AirBnB_clone/tree/master#0x01-introduction)
 - [0x02 Environment](https://github.com/richard-1257/AirBnB_clone/blob/master/README.md#0x02-environment)
 - [0x03 Installation](https://github.com/richard-1257/AirBnB_clone/tree/master#0x03-installation)
-- [0x04 Testing]()
+- [0x04 Testing](https://github.com/richard-1257/AirBnB_clone/tree/master#0x04-testing)
 - [0x05 Usage]()
 - [0x06 Authors]()
 
