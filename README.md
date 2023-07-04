@@ -2,11 +2,11 @@
 
 ## 0x00.Table of contents
 - [0x01 Introduction](https://github.com/richard-1257/AirBnB_clone/tree/master#0x01-introduction)
-- 0x02 Environment
-- 0x03 Installation
-- 0x04 Testing
-- 0x05 Usage
-- 0x06 Authors
+- [0x02 Environment](https://github.com/richard-1257/AirBnB_clone/blob/master/README.md#0x02-environment)
+- [0x03 Installation]()
+- [0x04 Testing]()
+- [0x05 Usage]()
+- [0x06 Authors]()
 
 ## 0x01 Introduction
 Team project to build a clone of [AirBnB](https://www.airbnb.com/).
